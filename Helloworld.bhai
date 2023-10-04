@@ -1,0 +1,6 @@
+//Entry point 
+hi bhai
+//bol bhai prints statement in console
+    bol bhai "Hello World";
+//Exit point
+bye bhai
